@@ -1,54 +1,46 @@
-Simple YouTube Downloader
-English
-A fast and easy YouTube video downloader with audio support, built with Python and Flask.
+# Simple YouTube Downloader
 
-Features:
+![Python](https://img.shields.io/badge/python-3.7+-blue)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
-Download YouTube videos with audio
+---
 
-Saves files in a downloads folder
+## Features 🚀
 
-Clean, simple web interface
+**English:**  
+- 📥 Download YouTube videos with audio  
+- 💻 Simple Flask web interface  
+- 🗂️ Saves files in a `downloads` folder  
 
-Requirements: Python 3.7+, Flask, yt_dlp
+**Português:**  
+- 📥 Baixa vídeos do YouTube com áudio  
+- 💻 Interface web simples com Flask  
+- 🗂️ Salva arquivos na pasta `downloads`  
 
-How to use:
+---
 
-Clone this repo
+## How to use ⚙️
 
-Install dependencies (pip install -r requirements.txt)
+**English:**  
+1. Clone the repository  
+2. Install dependencies: `pip install -r requirements.txt`  
+3. Run the app: `python app.py`  
+4. Open your browser at [http://127.0.0.1:5000](http://127.0.0.1:5000)  
+5. Paste the YouTube link and download!  
 
-Run with python app.py
+**Português:**  
+1. Clone o repositório  
+2. Instale as dependências: `pip install -r requirements.txt`  
+3. Rode o app: `python app.py`  
+4. Abra o navegador em [http://127.0.0.1:5000](http://127.0.0.1:5000)  
+5. Cole o link do YouTube e baixe!  
 
-Open http://127.0.0.1:5000
+---
 
-Paste a YouTube link and download
+## License 📄
 
-License: MIT
+**English:**  
+This project is licensed under the MIT License.  
 
-Português
-Downloader rápido e fácil de vídeos do YouTube com áudio, feito com Python e Flask.
-
-Funcionalidades:
-
-Baixa vídeos do YouTube com áudio
-
-Salva na pasta downloads
-
-Interface web simples e limpa
-
-Requisitos: Python 3.7+, Flask, yt_dlp
-
-Como usar:
-
-Clone o repositório
-
-Instale as dependências (pip install -r requirements.txt)
-
-Rode com python app.py
-
-Acesse http://127.0.0.1:5000
-
-Cole o link do YouTube e baixe
-
-Licença: MIT
+**Português:**  
+Este projeto está licenciado sob a licença MIT.
