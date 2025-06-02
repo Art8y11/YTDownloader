@@ -1,66 +1,54 @@
 Simple YouTube Downloader
 English
-Simple and fast YouTube video downloader with audio — built with Python and Flask.
+A fast and easy YouTube video downloader with audio support, built with Python and Flask.
 
-Features
-Download videos from YouTube with audio
+Features:
 
-Save files in a dedicated downloads folder
+Download YouTube videos with audio
 
-Simple web interface using Flask
+Saves files in a downloads folder
 
-Lightweight and easy to use
+Clean, simple web interface
 
-Requirements
-Python 3.7+
+Requirements: Python 3.7+, Flask, yt_dlp
 
-Flask
+How to use:
 
-yt_dlp
+Clone this repo
 
-How to use
-Clone the repository
+Install dependencies (pip install -r requirements.txt)
 
-Install dependencies: pip install -r requirements.txt
+Run with python app.py
 
-Run the app: python app.py
+Open http://127.0.0.1:5000
 
-Open your browser at http://127.0.0.1:5000
+Paste a YouTube link and download
 
-Paste the YouTube link and download!
-
-License
-This project is licensed under the MIT License.
+License: MIT
 
 Português
-Downloader simples e rápido de vídeos do YouTube com áudio — construído com Python e Flask.
+Downloader rápido e fácil de vídeos do YouTube com áudio, feito com Python e Flask.
 
-Funcionalidades
-Download vídeos do YouTube com áudio
+Funcionalidades:
 
-Salva arquivos em uma pasta dedicada chamada downloads
+Baixa vídeos do YouTube com áudio
 
-Interface web simples usando Flask
+Salva na pasta downloads
 
-Leve e fácil de usar
+Interface web simples e limpa
 
-Requisitos
-Python 3.7+
+Requisitos: Python 3.7+, Flask, yt_dlp
 
-Flask
+Como usar:
 
-yt_dlp
-
-Como usar
 Clone o repositório
 
-Instale as dependências: pip install -r requirements.txt
+Instale as dependências (pip install -r requirements.txt)
 
-Rode o app: python app.py
+Rode com python app.py
 
-Abra o navegador em http://127.0.0.1:5000
+Acesse http://127.0.0.1:5000
 
-Cole o link do YouTube e baixe!
+Cole o link do YouTube e baixe
 
-Licença
-Este projeto está licenciado sob a licença MIT.
+Licença: MIT
