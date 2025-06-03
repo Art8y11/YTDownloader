@@ -7,40 +7,20 @@
 
 ## Features 🚀
 
-**English:**  
 - 📥 Download YouTube videos with audio  
-- 💻 Simple Flask web interface  
+- 💻 Simple interface  
 - 🗂️ Saves files in a `downloads` folder  
-
-**Português:**  
-- 📥 Baixa vídeos do YouTube com áudio  
-- 💻 Interface web simples com Flask  
-- 🗂️ Salva arquivos na pasta `downloads`  
 
 ---
 
 ## How to use ⚙️
 
-**English:**  
-1. Clone the repository  
-2. Install dependencies: `pip install -r requirements.txt`  
-3. Run the app: `python app.py`  
-4. Open your browser at [http://127.0.0.1:5000](http://127.0.0.1:5000)  
-5. Paste the YouTube link and download!  
-
-**Português:**  
-1. Clone o repositório  
-2. Instale as dependências: `pip install -r requirements.txt`  
-3. Rode o app: `python app.py`  
-4. Abra o navegador em [http://127.0.0.1:5000](http://127.0.0.1:5000)  
-5. Cole o link do YouTube e baixe!  
+**Just run the executable:**  
+- On Windows, double-click the `YTDownloader.exe` file to start the app.  
+- The app will download videos automatically when you provide the link.  
 
 ---
 
 ## License 📄
 
-**English:**  
-This project is licensed under the MIT License.  
-
-**Português:**  
-Este projeto está licenciado sob a licença MIT.
+This project is licensed under the MIT License.
